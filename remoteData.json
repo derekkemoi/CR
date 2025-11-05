@@ -1,0 +1,7 @@
+{
+  testMode: true,
+  tillName: "",
+  tillNumber: "",
+  generateAmount: 100,
+  clearanceAmount: 200
+}
