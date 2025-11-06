@@ -2,6 +2,6 @@
   "testMode": true,
   "tillName": "EQUITECH SOLUTIONS",
   "tillNumber": "6990843",
-  "generateAmount": 100.00,
-  "clearanceAmount": 200.00
+  "generateAmount": 100.0,
+  "clearanceAmount": 200.0
 }
