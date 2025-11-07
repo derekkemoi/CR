@@ -1,5 +1,5 @@
 {
-  "testMode": false,
+  "testMode": true,
   "tillName": "EQUITECH SOLUTIONS",
   "tillNumber": "6990843",
   "generateAmount": 100.0,
